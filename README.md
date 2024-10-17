@@ -8,8 +8,8 @@
         <li> 🎓 Estudiante de la Universidad del Bío-Bío, Concepción
         <li> 📬 Mis correos:
             <ul>
-                <li> ignacio.mora2001@alumnos.ubiobio.cl
-                <li> ignacio.mora.w@gmail.com
+                <li> <a href="mailto:ignacio.mora2001@alumnos.ubiobio.cl">ignacio.mora2001@alumnos.ubiobio.cl</a>
+                <li> <a href="mailto:ignacio.mora.w@gmail.com">ignacio.mora.w@gmail.com</a>
             </ul>
     </ul>
     <h3> Lenguajes y Herramientas </h3>
